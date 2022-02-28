@@ -1,0 +1,11 @@
+2022-02-28_14-43-33 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2022-02-28_14-43-33 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2022-02-28_14-43-39 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2022-02-28_14-43-39 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2022-02-28_14-43-39 [main] ERROR c.c.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-02-28_14-43-39 [main] ERROR c.c.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-02-28_15-16-20 [http-nio-8400-exec-1] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-02-28_15-43-54 [http-nio-8400-exec-7] ERROR c.c.a.config.JwtRequestFilter - JWT Token has expired
+2022-02-28_16-26-40 [http-nio-8400-exec-5] ERROR c.c.a.config.JwtRequestFilter - JWT Token has expired
+2022-02-28_16-26-40 [http-nio-8400-exec-3] ERROR c.c.a.config.JwtRequestFilter - JWT Token has expired
+2022-02-28_16-26-40 [http-nio-8400-exec-9] ERROR c.c.a.config.JwtRequestFilter - JWT Token has expired
