@@ -1,4 +1,4 @@
-# CDE Project International Patients Treatment Management System
+# International Patients Treatment Management System
 
 International Patients Treatment Management System is a web application to list and choose the treatment packages for International patients, register them, track their treatment to closure through insurance claim.
 
