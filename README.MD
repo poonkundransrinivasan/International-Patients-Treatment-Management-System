@@ -12,8 +12,6 @@
  - [Running the services (PowerShell)](#running-the-services-powershell)
  - [Testing and database console](#testing-and-database-console)
  - [API documentation / exploration](#api-documentation--exploration)
- - [Contributing](#contributing)
- - [License](#license)
 
  ## Overview
 
@@ -123,12 +121,3 @@
  ## API documentation / exploration
 
  - Use Postman or curl to explore REST endpoints exposed by each service.
-
- ## Contributing
-
- Contributions are welcome. Suggested workflow:
-
- 1. Fork the repository
- 2. Create a feature branch: `git checkout -b feat/your-feature`
- 3. Commit changes and push
- 4. Open a pull request describing your changes
