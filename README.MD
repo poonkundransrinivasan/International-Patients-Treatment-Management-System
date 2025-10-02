@@ -123,7 +123,6 @@
  ## API documentation / exploration
 
  - Use Postman or curl to explore REST endpoints exposed by each service.
- - If Swagger/OpenAPI is enabled in any module, the UI will usually be available at `/swagger-ui.html` or `/swagger-ui/index.html`.
 
  ## Contributing
 
